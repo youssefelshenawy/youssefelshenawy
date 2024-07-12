@@ -14,6 +14,7 @@ I'm a third-year Computer Engineering student at the German University in Cairo,
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-elshenawy/)
+- 📧 Email: [youssefelshenawy661@gmail.com](mailto:youssefelshenawy661@gmail.com)
 - 📫 Feel free to reach out!
 
 

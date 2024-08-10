@@ -12,13 +12,14 @@ I'm a third-year Computer Engineering student at the German University in Cairo,
 - **Tools:** Git, GitHub, Agile Methodologies,
 
 ## 🛠 Projects
-- [Money Transfer Application](https://github.com/Abdelrahman034/MoneyTransfer.git) | Back-end for a secure Mobile Money Transfer App
-- [A Non-Monetary Donation Platform for NGOs](https://github.com/AhmedHawater2003/AY-Haga.git) | Designed and developed the web application front-end.
-- [The Last Of Us Legacy](https://github.com/youssefelshenawy/The_last_of_us.git) | A 15x15 grid map game
-- [Advising Database System](https://github.com/youssefelshenawy/Advising-Database-System.git) | DBMS for Student Advising with MSSQL and ASP.net
-- [Encoder and Decoder](https://colab.research.google.com/drive/1nnOMwXSue5pvFY9Eu9NF7n2s3PJZ6YHd?usp=sharing) | Encoding and Decoding a binary image using Python
-- [Chess Engine](https://github.com/youssefelshenawy/Chess-Engine.git) | A simple chess engine
 - [Scheduling System](https://github.com/youssefelshenawy/Chess-Engine.git) | A system to assign the weekly labs of a course to the available Teaching Assistants
+- [Chess Engine](https://github.com/youssefelshenawy/Chess-Engine.git) | A simple chess engine
+- [Encoder and Decoder](https://colab.research.google.com/drive/1nnOMwXSue5pvFY9Eu9NF7n2s3PJZ6YHd?usp=sharing) | Encoding and Decoding a binary image using Python
+- [Money Transfer Application](https://github.com/Abdelrahman034/MoneyTransfer.git) | Back-end for a secure Mobile Money Transfer App
+- [The Last Of Us Legacy](https://github.com/youssefelshenawy/The_last_of_us.git) | A 15x15 grid map game
+- [A Non-Monetary Donation Platform for NGOs](https://github.com/AhmedHawater2003/AY-Haga.git) | Designed and developed the web application front-end.
+- [Advising Database System](https://github.com/youssefelshenawy/Advising-Database-System.git) | DBMS for Student Advising with MSSQL and ASP.net
+
 
 
 ## 🌍 Connect with Me

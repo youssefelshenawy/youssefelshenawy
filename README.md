@@ -11,6 +11,9 @@ I'm a third-year Computer Engineering student at the German University in Cairo,
 - **Languages:** Java, Python, SQL, C, C#, HTML, CSS, Prolog, Haskell
 - **Tools:** Git, GitHub, Agile Methodologies,
 
+## 🛠 Projects
+
+
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-elshenawy/)
